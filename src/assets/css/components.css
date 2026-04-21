@@ -780,7 +780,7 @@
     @apply flex lg:hidden justify-between flex-row;
   }
   .footer-laptop {
-    @apply hidden lg:block;
+    @apply hidden lg:flex;
   }
   /* Newsletter */
   .footer-newsletter-text p {
