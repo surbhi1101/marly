@@ -386,7 +386,7 @@
 
   /* Part 1 */
   .footer-top {
-    @apply grid grid-cols-1 lg:grid-cols-4
+    @apply grid grid-cols-1 lg:grid-cols-3
          px-6 lg:px-[60px] xl:px-[80px]
          py-[50px] lg:py-[60px] gap-10 lg:gap-8;
   }
